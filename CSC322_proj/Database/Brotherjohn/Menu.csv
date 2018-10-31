@@ -1,0 +1,14 @@
+Pizza,Source,Price,Cook,last1rating,last2rating,last3rating,avgrating,Ingredients
+Buffalo Chicken,Database/images/BuffaloChicken.jpg,8.0,youwen,4.0,4.0,4.0,4.0,chicken
+Cali Chicken Bacon Ranch,Database/images/CaliChickenBaconRanch.jpg,9.0,youwen,4.0,4.0,4.0,4.0,chichken
+Deluxe,Database/images/Deluxe.jpg,7.5,youwen,5.0,5.0,3.0,4.333333333333333,pizza
+ExtravaganZZa,Database/images/ExtravaganZZa.jpg,8.5,youwen,4.0,4.0,4.0,4.0,pizza
+Honolulu Hawaiian,Database/images/HonoluluHawaiian.jpg,8.0,youwen,5.0,5.0,3.0,4.333333333333333,pizza
+MeatZZa,Database/images/MeatZZa.jpg,7.5,youwen,3.0,5.0,5.0,4.333333333,pizza
+Memphis BBQ Chicken,Database/images/MemphisBBQChicken.jpg,8.5,bohan,5.0,5.0,3.0,4.333333333333333,pizza
+Pacific Veggie,Database/images/PacificVeggie.jpg,7.0,bohan,4.0,4.0,5.0,4.333333333,pizza
+Philly Cheese Steak,Database/images/PhillyCheeseSteak.jpg,8.5,bohan,3.0,4.0,5.0,4.0,pizza
+Spinach & Feta,Database/images/Spinach&Feta.jpg,7.0,bohan,3.0,3.0,5.0,3.666666667,pizza
+Ultimate Pepperoni,Database/images/UltimatePepperoni.jpg,8.5,bohan,4.0,4.0,4.0,4.0,pizza
+Wisconsin & Cheese,Database/images/Wisconsin&Cheese.jpg,7.0,bohan,4.0,4.0,4.0,4.0,pizza
+testing,Database/images/default.png,6.0,youwen,,,,,testing ingredient
